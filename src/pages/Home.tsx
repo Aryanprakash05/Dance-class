@@ -10,7 +10,7 @@ const Home = () => {
         <div className="container">
           <h1>Dance Your Way to Excellence</h1>
           <p>Join GrooveSphere's vibrant community of dancers and discover your rhythm</p>
-          <Link to="/signup" className="btn btn-primary">
+          <Link to="" className="btn btn-primary">
             Start Dancing Today <ArrowRight size={20} />
           </Link>
         </div>
